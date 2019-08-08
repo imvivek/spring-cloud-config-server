@@ -1,0 +1,4 @@
+rate = 70
+tollstart = 05:00 
+tollstope = 22:00
+lanecount = 5
